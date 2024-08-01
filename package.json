@@ -1,0 +1,20 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic hot chaideploy",
+  "main": "first.js",
+  "scripts": {
+    "start": "node first.js"
+  },
+  "keywords": [
+    "node",
+    "chai",
+    "deploy"
+  ],
+  "author": "shree rankhamb",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
